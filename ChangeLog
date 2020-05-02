@@ -1,0 +1,14 @@
+Version 0.2
+	* Ported from Qt to KDE
+	* Supports zip, tar, tar.gz(or tgz) archives
+	* No limit for filename
+	* Specialized directory select dialog
+	* Autocomplete directory combobox
+	* Search history maintanence
+	* Enhanced about dialog
+
+Version 0.1
+	* Supports zip archives(.zip)
+	* Supports at the maximum of 500 chars length filenames
+	* Supports automatic enumeration of root directory in linux and various drives in windows
+	* Supports seperate directory browse dialog
